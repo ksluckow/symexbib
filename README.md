@@ -162,9 +162,8 @@ The list is a bit out of date since I have not added many papers since 2013. But
 |Calysto: scalable and precise extended static checking |ICSE |2008 |
 |Active property checking |International conference on Embedded software |2008 |
 |Pex-White Box Test Generation for .NET |International Conf. on Tests and Proofs |2008 |
-|Dynamic Test Input Generation for Web Applications |ISSTA |2008 |
 |Universal symbolic execution and its application to likely data structure invariant generation |ISSTA |2008 |
-|Dynamic test input generation for web applications |ISSTA |2008 |Gary Wassermann, Dachuan Yu, Ajay Chander, Dinakar Dhurjati, Hiroshi Inamura, Zhendong Su|
+|Dynamic Test Input Generation for Web Applications |ISSTA |2008 |Gary Wassermann, Dachuan Yu, Ajay Chander, Dinakar Dhurjati, Hiroshi Inamura, Zhendong Su|
 |Combining unit-level symbolic execution and system-level concrete execution for testing NASA software |ISSTA |2008 |Corina S. Pǎsǎreanu, Peter C. Mehlitz, David H. Bushnell, Karen Gundy-Burlet, Michael Lowry, Suzette Person, Mark Pape|
 |Automated Whitebox Fuzz Testing |Network and Distributed System Security Symposium |2008 |Patrice Godefroid, Michael Y. Levin, David Molnar|
 |KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs |OSDI |2008 |Cristian Cadar, Daniel Dunbar, Dawson Engler|
