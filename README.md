@@ -41,6 +41,7 @@ The list is a bit out of date since I have not added many papers since 2013. But
 |SmacC: A Retargetable Symbolic Execution Engine |TACAS |2013 |Armin Biere, Jens Knoop, Laura Kovács, Jakob Zwirchmayr|
 |Path exploration based on symbolic output |TOSEM |2013 |Dawei Qi, Hoang D. T. Nguyen, and Abhik Roychoudhury|
 |Redundant State Detection for Dynamic Symbolic Execution |USENIX |2013 |Suhabe Bugrara, Dawson Engler|
+|Unleashing Mayhem on Binary Code |SP |2012 | Sang Kil Cha, Thanassis Avgerinos, Alexandre Rebert, David Brumley|
 |Augmented dynamic symbolic execution |ASE |2012 |Konrad Jamrozik, Gordon Fraser, Nikolai Tillmann and Jonathan de Halleux|
 |Collaborative Verification and Testing with Explicit Assumptions |FM |2012 |Maria Christakis, Peter Müller, Valentin Wüstholz|
 |Automated Concolic Testing of Smartphone Apps |FSE | 2012|Saswat Anand, Mayur Naik, Hongseok Yang, Mary Jean Harrold|
