@@ -164,17 +164,17 @@ The list is a bit out of date since I have not added many papers since 2013. But
 |Pex-White Box Test Generation for .NET |International Conf. on Tests and Proofs |2008 |
 |Dynamic Test Input Generation for Web Applications |ISSTA |2008 |
 |Universal symbolic execution and its application to likely data structure invariant generation |ISSTA |2008 |
-|Dynamic test input generation for web applications |ISSTA |2008 |
-|Combining unit-level symbolic execution and system-level concrete execution for testing NASA software |ISSTA |2008 |
-|Automated Whitebox Fuzz Testing |Network and Distributed System Security Symposium |2008 |
-|KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs |OSDI |2008 |
-|Grammar-based whitebox fuzzing |PLDI |2008 |
-|Using Dynamic Symbolic Execution to Improve Deductive Verification |SPIN |2008 |
-|RWset: Attacking Path Explosion in Constraint-Based Test Generation |TACAS |2008 |
-|Demand-Driven Compositional Symbolic Execution |TACAS |2008 |
-|Combining symbolic execution with model checking to verify parallel numerical programs |TOSEM |2008 |
-|Vigilante: End-to-End Containment of Internet Worm Epidemics |Transactions on Computer Systems |2008 |
-|Panalyst: privacy-aware remote error analysis on commodity software |USENIX Security Symposium |2008 |
+|Dynamic test input generation for web applications |ISSTA |2008 |Gary Wassermann, Dachuan Yu, Ajay Chander, Dinakar Dhurjati, Hiroshi Inamura, Zhendong Su|
+|Combining unit-level symbolic execution and system-level concrete execution for testing NASA software |ISSTA |2008 |Corina S. Pǎsǎreanu, Peter C. Mehlitz, David H. Bushnell, Karen Gundy-Burlet, Michael Lowry, Suzette Person, Mark Pape|
+|Automated Whitebox Fuzz Testing |Network and Distributed System Security Symposium |2008 |Patrice Godefroid, Michael Y. Levin, David Molnar|
+|KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs |OSDI |2008 |Cristian Cadar, Daniel Dunbar, Dawson Engler|
+|Grammar-based whitebox fuzzing |PLDI |2008 |Patrice Godefroid, Adam Kiezun, Michael Y. Levin|
+|Using Dynamic Symbolic Execution to Improve Deductive Verification |SPIN |2008 |Dries Vanoverberghe, Nikolaj Bjørner, Jonathan Halleux, Wolfram Schulte, Nikolai Tillmann|
+|RWset: Attacking Path Explosion in Constraint-Based Test Generation |TACAS |2008 |Peter Boonstoppel, Cristian Cadar, Dawson Engler|
+|Demand-Driven Compositional Symbolic Execution |TACAS |2008 |Saswat Anand, Patrice Godefroid, Nikolai Tillmann|
+|Combining symbolic execution with model checking to verify parallel numerical programs |TOSEM |2008 |Stephen F. Siegel, Anastasia Mironova, George S. Avrunin, Lori A. Clarke|
+|Vigilante: End-to-End Containment of Internet Worm Epidemics |Transactions on Computer Systems |2008 |Manuel Costa, Jon Crowcroft, Miguel Castro, Antony Rowstron, Lidong Zhou, Lintao Zhang, Paul Barham|
+|Panalyst: privacy-aware remote error analysis on commodity software |USENIX Security Symposium |2008 |Rui Wang, XiaoFeng Wang, Zhuowei Li|
 |A Decision Procedure for Bitvectors and Arrays| CAV | 2007 | Ganesh and Dill|
 |Directed test generation using symbolic grammars |ASE |2007 |Rupak Majumdar, Ru-Gang Xu|
 |Creating Vulnerability Signatures Using Weakest Preconditions |Computer Security Foundations Symposium |2007 |David Brumley, Hao Wang, Somesh Jha, Dawn Song|
