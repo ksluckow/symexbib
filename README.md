@@ -176,20 +176,20 @@ The list is a bit out of date since I have not added many papers since 2013. But
 |Vigilante: End-to-End Containment of Internet Worm Epidemics |Transactions on Computer Systems |2008 |
 |Panalyst: privacy-aware remote error analysis on commodity software |USENIX Security Symposium |2008 |
 |A Decision Procedure for Bitvectors and Arrays| CAV | 2007 | Ganesh and Dill|
-|Directed test generation using symbolic grammars |ASE |2007 |
-|Creating Vulnerability Signatures Using Weakest Preconditions |Computer Security Foundations Symposium |2007 |
-|Predictive testing: amplifying the effectiveness of software testing |ESEC/FSE |2007 |
-|Hybrid Concolic Testing |ICSE |2007 |
-|Variably interprocedural program analysis for runtime error detection |ISSTA |2007 |
-|Dynamic test input generation for database applications |ISSTA |2007 |
-|Compositional dynamic test generation |POPL |2007 |
+|Directed test generation using symbolic grammars |ASE |2007 |Rupak Majumdar, Ru-Gang Xu|
+|Creating Vulnerability Signatures Using Weakest Preconditions |Computer Security Foundations Symposium |2007 |David Brumley, Hao Wang, Somesh Jha, Dawn Song|
+|Predictive testing: amplifying the effectiveness of software testing |ESEC/FSE |2007 |Pallavi Joshi, Koushik Sen, Mark Shlimovich|
+|Hybrid Concolic Testing |ICSE |2007 |Rupak Majumdar, Koushik Sen|
+|Variably interprocedural program analysis for runtime error detection |ISSTA |2007 |Aaron Tomb, Guillaume Brat, Willem Visser|
+|Dynamic test input generation for database applications |ISSTA |2007 |Michael Emmi, Rupak Majumdar, Koushik Sen|
+|Compositional dynamic test generation |POPL |2007 |Patrice Godefroid|
 |QAGen: generating query-aware test databases |SIGMOD Conf. |2007 |Carsten Binnig, Donald Kossmann, Eric Lo, M. Tamer Özsu|
-|Bouncer: securing software by blocking bad input |SOSP |2007 |
-|Exploring Multiple Execution Paths for Malware Analysis |Symposium on Security and Privacy |2007 |
+|Bouncer: securing software by blocking bad input |SOSP |2007 |Manuel Costa, Miguel Castro, Lidong Zhou, Lintao Zhang, Marcus Peinado|
+|Exploring Multiple Execution Paths for Malware Analysis |Symposium on Security and Privacy |2007 |Andreas Moser, Christopher Kruegel, Engin Kirda|
 |JPF-SE: A Symbolic Execution Extension to Java PathFinder |TACAS |2007 |Saswat Anand, Corina Pasareanu, Willem Visser|
 |Type-Dependence Analysis and Program Transformation for Symbolic Execution |TACAS |2007 |Saswat Anand, Alex Orso, Mary Jean Harrold|
-|BitScope: Automatically Dissecting Malicious Binaries |Technical Report CMU-CS-07-133, School of Computer Science, Carnegie Mellon University |2007 |
-|Saturn: A scalable framework for error detection using Boolean satisfiability |TOPLAS |2007 |
+|BitScope: Automatically Dissecting Malicious Binaries |Technical Report CMU-CS-07-133, School of Computer Science, Carnegie Mellon University |2007 |David Brumley, Cody Hartwig, Min Gyung Kang, Zhenkai Liang, James Newsome, Pongsin Poosankam, Dawn Song, Heng Yin|
+|Saturn: A scalable framework for error detection using Boolean satisfiability |TOPLAS |2007 |Yichen Xie, Alex Aiken|
 |Towards Automatic Discovery of Deviations in Binary Implementations with Applications to Error Detection and Fingerprint Generation |USENIX Security Symposium |2007 |David Brumley, Juan Caballero, Zhenkai Liang, James Newsome, Dawn Song|
 |EXE: Automatically Generating Inputs of Death| CCS | 2006 | Cadar, Ganesh, Pawlowski, Dill, Engler |
 |Bogor/Kiasan: A k-bounded Symbolic Execution for Checking Strong Heap Properties of Open Systems |ASE |2006 |Xianghua Deng, Jooyong Lee, Robby|
@@ -213,5 +213,5 @@ The list is a bit out of date since I have not added many papers since 2013. But
 |Generalized Symbolic Execution for Model Checking and Testing |TACAS |2003 |Sarfraz Khurshid, Corina S. Păsăreanu, Willem Visser|
 |Extended Static Checking for Java |PLDI |2002 |Cormac Flanagan, K. Rustan M. Leino, Mark Lillibridge, Greg Nelson, James B. Saxe, Raymie Stata|
 |Bandera: a source-level interface for model checking Java programs |ICSE |2000 |James C. Corbett, Matthew B. Dwyer, John Hatcliff, Robby|
-|Symbolic Testing and the DISSECT Symbolic Evaluation System |IEEE Tran. Software Engg. |1977 |William E. Howden
+|Symbolic Testing and the DISSECT Symbolic Evaluation System |IEEE Tran. Software Engg. |1977 |William E. Howden|
 |Symbolic Execution and Program Testing |Commun. ACM |1976 |James C. King|
