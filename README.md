@@ -147,7 +147,7 @@ The list is a bit out of date since I have not added many papers since 2013. But
 |A survey of new trends in symbolic execution for software testing and analysis |STTT |2009 |Corina S. Păsăreanu, Willem Visser|
 |Symbolic execution with abstraction |STTT |2009 |Saswat Anand, Corina S. Păsăreanu, Willem Visser|
 |Test Input Generation for Programs with Pointers |TACAS |2009 |Dries Vanoverberghe, Nikolai Tillmann, Frank Piessens|
-|TACAS |2009 |Path Feasibility Analysis for String-Manipulating Programs|
+|Path Feasibility Analysis for String-Manipulating Programs |TACAS |2009 |Nikolaj Bjørner, Nikolai Tillmann, Andrei Voronkov|
 |Dynamic Test Generation To Find Integer Bugs in x86 Binary Linux Programs |USENIX Security Symposium |2009 |David Molnar, Xue Cong Li, David A. Wagner|
 |Selective Symbolic Execution |Workshop on Hot Topics in System Dependability |2009 |V. Chipounov, V. Georgescu, C. Zamfir, and G. Candea|
 |EXE: Automatically Generating Inputs of Death |ACM Trans. Inf. Syst. Secur. |2008 |Cristian Cadar, Vijay Ganesh, Peter M. Pawlowski, David L. Dill, Dawson R. Engler|
