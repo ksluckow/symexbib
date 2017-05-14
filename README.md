@@ -150,19 +150,19 @@ The list is a bit out of date since I have not added many papers since 2013. But
 |TACAS |2009 |Path Feasibility Analysis for String-Manipulating Programs|
 |Dynamic Test Generation To Find Integer Bugs in x86 Binary Linux Programs |USENIX Security Symposium |2009 |David Molnar, Xue Cong Li, David A. Wagner|
 |Selective Symbolic Execution |Workshop on Hot Topics in System Dependability |2009 |V. Chipounov, V. Georgescu, C. Zamfir, and G. Candea|
-|EXE: Automatically Generating Inputs of Death |ACM Trans. Inf. Syst. Secur. |2008 |
-|Test-Suite Augmentation for Evolving Software |ASE |2008 |
-|Heuristics for Scalable Dynamic Test Generation |ASE |2008 |
-|Context-Sensitive Relevancy Analysis for Efficient Symbolic Execution |Asian Symposium on Programming Languages and Systems |2008 |
-|Better bug reporting with better privacy |ASPLOS |2008 |
+|EXE: Automatically Generating Inputs of Death |ACM Trans. Inf. Syst. Secur. |2008 |Cristian Cadar, Vijay Ganesh, Peter M. Pawlowski, David L. Dill, Dawson R. Engler|
+|Test-Suite Augmentation for Evolving Software |ASE |2008 |R. Santelices, P. K. Chittimalli, T. Apiwattanapong, A. Orso, M. J. Harrold|
+|Heuristics for Scalable Dynamic Test Generation |ASE |2008 |J. Burnim, K. Sen|
+|Context-Sensitive Relevancy Analysis for Efficient Symbolic Execution |Asian Symposium on Programming Languages and Systems |2008 |Xin Li, Daryl Shannon, Indradeep Ghosh, Mizuhito Ogawa, Sreeranga P. Rajan, Sarfraz Khurshid|
+|Better bug reporting with better privacy |ASPLOS |2008 |Miguel Castro, Manuel Costa, Jean-Philippe Martin|
 |Automatically Identifying Trigger-based Behavior in Malware |Botnet Detection |2008 |David Brumley, Cody Hartwig, Zhenkai Liang, James Newsome, Dawn Song, Heng Yin|
 |Randomized directed testing (REDIRECT) for Simulink/Stateflow models |EMSOFT |2008 |Manoranjan Satpathy, Anand Yeolekar, S. Ramesh|
-|Differential symbolic execution |FSE |2008 |
-|DySy: dynamic symbolic execution for invariant inference |ICSE |2008 |
-|Calysto: scalable and precise extended static checking |ICSE |2008 |
-|Active property checking |International conference on Embedded software |2008 |
-|Pex-White Box Test Generation for .NET |International Conf. on Tests and Proofs |2008 |
-|Universal symbolic execution and its application to likely data structure invariant generation |ISSTA |2008 |
+|Differential symbolic execution |FSE |2008 |Suzette Person, Matthew B. Dwyer, Sebastian Elbaum, Corina S. Pǎsǎreanu|
+|DySy: dynamic symbolic execution for invariant inference |ICSE |2008 |Christoph Csallner, Nikolai Tillmann, Yannis Smaragdakis|
+|Calysto: scalable and precise extended static checking |ICSE |2008 |Domagoj Babic, Alan J. Hu|
+|Active property checking |International conference on Embedded software |2008 |Patrice Godefroid, Michael Y. Levin, David A. Molnar|
+|Pex-White Box Test Generation for .NET |International Conf. on Tests and Proofs |2008 |Nikolai Tillmann, Jonathan De Halleux|
+|Universal symbolic execution and its application to likely data structure invariant generation |ISSTA |2008 |Yamini Kannan, Koushik Sen|
 |Dynamic Test Input Generation for Web Applications |ISSTA |2008 |Gary Wassermann, Dachuan Yu, Ajay Chander, Dinakar Dhurjati, Hiroshi Inamura, Zhendong Su|
 |Combining unit-level symbolic execution and system-level concrete execution for testing NASA software |ISSTA |2008 |Corina S. Pǎsǎreanu, Peter C. Mehlitz, David H. Bushnell, Karen Gundy-Burlet, Michael Lowry, Suzette Person, Mark Pape|
 |Automated Whitebox Fuzz Testing |Network and Distributed System Security Symposium |2008 |Patrice Godefroid, Michael Y. Levin, David Molnar|
