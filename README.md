@@ -8,6 +8,7 @@ The list is a bit out of date since I have not added many papers since 2013. But
 
 |Title|Venue|Year|Authors|
 |-----|-----|----|-------|
+|A Survey of Symbolic Execution Techniques | |2016 |Roberto Baldoni, Emilio Coppa, Daniele Cono D’Elia, Camil Demetrescu, Irene Finocchi|
 |JDart: A Dynamic Symbolic Analysis Framework |TACAS |2015 | Kasper Luckow, Marko Dimjašević, Dimitra Giannakopoulou, Falk Howar, Malte Isberner, Temesghen Kahsai, Zvonimir Rakamarić, Vishwanath Raman|
 |Proving Memory Safety of the ANI Windows Image Parser Using Compositional Exhaustive Testing |VMCAI |2015 |Maria Christakis, Patrice Godefroid|
 |Exact and Approximate Probabilistic Symbolic Execution for Nondeterministic Programs |ASE |2014 |Kasper Luckow, Corina S. Pasareanu, Matthew B. Dwyer, Antonio Filieri, Willem Visser|
@@ -28,7 +29,7 @@ The list is a bit out of date since I have not added many papers since 2013. But
 |Verifying systems rules using rule-directed symbolic execution |ASPLOS |2013 |Heming Cui, Gang Hu, Jingyue Wu, and Junfeng Yang|
 |Symbolic Execution for Software Testing: Three Decades Later |CACM |2013 |Cristian Cadar and Koushik Sen.|
 |Boosting concolic testing via interpolation |FSE |2013 |Joxan Jaffar, Vijayaraghavan Murali, and Jorge A. Navas|
-|Jalangi: a tool framework for concolic testing, selective record-replay, and dynamic analysis of JavaScript |FSE |2013 |
+|Jalangi: a tool framework for concolic testing, selective record-replay, and dynamic analysis of JavaScript |FSE |2013 |Koushik Sen, Swaroop Kalasapur, Tasneem Brutch, Simon Gibbs|
 |Explicating symbolic execution (xSymExe): an evidence-based verification framework |ICSE |2013 |John Hatcliff, Robby, Patrice Chalin, and Jason Belt|
 |Memoise: A tool for memoized symbolic execution |ICSE |2013 |Guowei Yang, Sarfraz Khurshid, and Corina S. Păsăreanu|
 |Billions and Billions of Constraints: Whitebox Fuzz Testing in Production |ICSE |2013 |Ella Bounimova, Patrice Godefroid, David Molnar|
@@ -41,6 +42,7 @@ The list is a bit out of date since I have not added many papers since 2013. But
 |SmacC: A Retargetable Symbolic Execution Engine |TACAS |2013 |Armin Biere, Jens Knoop, Laura Kovács, Jakob Zwirchmayr|
 |Path exploration based on symbolic output |TOSEM |2013 |Dawei Qi, Hoang D. T. Nguyen, and Abhik Roychoudhury|
 |Redundant State Detection for Dynamic Symbolic Execution |USENIX |2013 |Suhabe Bugrara, Dawson Engler|
+|Unleashing Mayhem on Binary Code |SP |2012 | Sang Kil Cha, Thanassis Avgerinos, Alexandre Rebert, David Brumley|
 |Augmented dynamic symbolic execution |ASE |2012 |Konrad Jamrozik, Gordon Fraser, Nikolai Tillmann and Jonathan de Halleux|
 |Collaborative Verification and Testing with Explicit Assumptions |FM |2012 |Maria Christakis, Peter Müller, Valentin Wüstholz|
 |Automated Concolic Testing of Smartphone Apps |FSE | 2012|Saswat Anand, Mayur Naik, Hongseok Yang, Mary Jean Harrold|
@@ -121,73 +123,71 @@ The list is a bit out of date since I have not added many papers since 2013. But
 |Dynamic symbolic database application testing |Workshop on Testing Database Systems |2010 |Chengkai Li, Christoph Csallner|
 |Reggae: Automated Test Generation for Programs Using Complex Regular Expressions |ASE |2009 |Nuo Li, Tao Xie, Nikolai Tillmann, Jonathan de Halleux, Wolfram Schulte|
 |Looper: Lightweight Detection of Infinite Loops at Runtime |ASE |2009 |Jacob Burnim, Nicholas Jalbert, Christos Stergiou, Koushik Sen|
-|Reducing Test Inputs Using Information Partitions |CAV |2009 |
-|Symbolic Query Exploration |Formal Methods and Software Engineering |2009 |Margus Veanes, Pavel Grigorenko, Peli Halleux, Nikolai Tillmann|
+|Reducing Test Inputs Using Information Partitions |CAV |2009 |Rupak Majumdar, Ru-Gang Xu|
+|Symbolic Query Exploration |ICFEM |2009 |Margus Veanes, Pavel Grigorenko, Peli Halleux, Nikolai Tillmann|
 |Sireum/Topi LDP: a lightweight semi-decision procedure for optimizing symbolic execution-based analyses |FSE |2009 |Jason Belt, Robby, Xianghua Deng|
 |Darwin: an approach for debugging evolving programs |FSE |2009 |Dawei Qi, Abhik Roychoudhury, Zhenkai Liang, Kapil Vaswani|
-|Symbolic Query Exploration |ICFEM |2009 |
 |Event Listener Analysis and Symbolic Execution for Testing GUI Applications |ICFEM |2009 |Svetoslav R. Ganov, Chip Killmar, Sarfraz Khurshid, Dewayne E. Perry|
 |WISE: Automated test generation for worst-case complexity |ICSE |2009 |Jacob Burnim, Sudeep Juvekar, Koushik Sen|
 |Automatic creation of SQL Injection and cross-site scripting attacks |ICSE |2009 |Adam Kieyzun, Philip J. Guo, Karthick Jayaraman, Michael D. Ernst|
 |Euclide: A Constraint-Based Testing Framework for Critical C Programs |ICST |2009 |Arnaud Gotlieb|
-|Fitness-guided path exploration in dynamic symbolic execution |International Conference on Dependable Systems and Networks |2009 |
-|Discovering Application-Level Insider Attacks Using Symbolic Execution |International Information Security Conference |2009 |
+|Fitness-guided path exploration in dynamic symbolic execution |International Conference on Dependable Systems and Networks |2009 |Tao Xie, Nikolai Tillmann, Jonathan de Halleux|
+|Discovering Application-Level Insider Attacks Using Symbolic Execution |International Information Security Conference |2009 |Karthik Pattabiraman, Nithin Nakka, Zbigniew Kalbarczyk, Ravishankar Iyer|
 |Precise pointer reasoning for dynamic test generation |ISSTA |2009 |Bassem Elkarablieh, Patrice Godefroid, Michael Y. Levin|
 |HAMPI: a solver for string constraints |ISSTA |2009 |Adam Kiezun, Vijay Ganesh, Philip J. Guo, Pieter Hooimeijer, Michael D. Ernst|
 |Precise interface identification to improve testing and analysis of web applications |ISSTA |2009 |William G.J. Halfond, Saswat Anand, Alessandro Orso|
-|Loop-extended symbolic execution on binary programs |ISSTA |2009 |
+|Loop-extended symbolic execution on binary programs |ISSTA |2009 |Prateek Saxena, Pongsin Poosankam, Stephen McCamant, Dawn Song|
 |IntScope: Automatically Detecting Integer Overflow Vulnerability in X86 Binary Using Symbolic Execution |Network and Distributed System Security Symposium |2009 |Tielei Wang, Tao Wei, Zhiqiang Lin, Wei Zou|
-|Cloud9: a software testing service |Operating Systems Review |2009 |
-|Snugglebug: a powerful approach to weakest preconditions |PLDI |2009 |
+|Cloud9: a software testing service |Operating Systems Review |2009 |Liviu Ciortea, Cristian Zamfir, Stefan Bucur, Vitaly Chipounov, George Candea|
+|Snugglebug: a powerful approach to weakest preconditions |PLDI |2009 |Satish Chandra, Stephen J. Fink, Manu Sridharan|
 |Symbolic Robustness Analysis |RTSS |2009 |Rupak Majumdar, Indranil Saha|
 |State Joining and Splitting for the Symbolic Execution of Binaries |Runtime Verification |2009 |Trevor Hansen, Peter Schachte, Harald Søndergaard|
-|Efficient Testing of Concurrent Programs with Abstraction-Guided Symbolic Execution |SPIN |2009 |
+|Efficient Testing of Concurrent Programs with Abstraction-Guided Symbolic Execution |SPIN |2009 |Neha Rungta, Eric G. Mercer, Willem Visser|
 |A survey of new trends in symbolic execution for software testing and analysis |STTT |2009 |Corina S. Păsăreanu, Willem Visser|
 |Symbolic execution with abstraction |STTT |2009 |Saswat Anand, Corina S. Păsăreanu, Willem Visser|
 |Test Input Generation for Programs with Pointers |TACAS |2009 |Dries Vanoverberghe, Nikolai Tillmann, Frank Piessens|
-|TACAS |2009 |Path Feasibility Analysis for String-Manipulating Programs|
+|Path Feasibility Analysis for String-Manipulating Programs |TACAS |2009 |Nikolaj Bjørner, Nikolai Tillmann, Andrei Voronkov|
 |Dynamic Test Generation To Find Integer Bugs in x86 Binary Linux Programs |USENIX Security Symposium |2009 |David Molnar, Xue Cong Li, David A. Wagner|
 |Selective Symbolic Execution |Workshop on Hot Topics in System Dependability |2009 |V. Chipounov, V. Georgescu, C. Zamfir, and G. Candea|
-|EXE: Automatically Generating Inputs of Death |ACM Trans. Inf. Syst. Secur. |2008 |
-|Test-Suite Augmentation for Evolving Software |ASE |2008 |
-|Heuristics for Scalable Dynamic Test Generation |ASE |2008 |
-|Context-Sensitive Relevancy Analysis for Efficient Symbolic Execution |Asian Symposium on Programming Languages and Systems |2008 |
-|Better bug reporting with better privacy |ASPLOS |2008 |
+|EXE: Automatically Generating Inputs of Death |ACM Trans. Inf. Syst. Secur. |2008 |Cristian Cadar, Vijay Ganesh, Peter M. Pawlowski, David L. Dill, Dawson R. Engler|
+|Test-Suite Augmentation for Evolving Software |ASE |2008 |R. Santelices, P. K. Chittimalli, T. Apiwattanapong, A. Orso, M. J. Harrold|
+|Heuristics for Scalable Dynamic Test Generation |ASE |2008 |J. Burnim, K. Sen|
+|Context-Sensitive Relevancy Analysis for Efficient Symbolic Execution |Asian Symposium on Programming Languages and Systems |2008 |Xin Li, Daryl Shannon, Indradeep Ghosh, Mizuhito Ogawa, Sreeranga P. Rajan, Sarfraz Khurshid|
+|Better bug reporting with better privacy |ASPLOS |2008 |Miguel Castro, Manuel Costa, Jean-Philippe Martin|
 |Automatically Identifying Trigger-based Behavior in Malware |Botnet Detection |2008 |David Brumley, Cody Hartwig, Zhenkai Liang, James Newsome, Dawn Song, Heng Yin|
 |Randomized directed testing (REDIRECT) for Simulink/Stateflow models |EMSOFT |2008 |Manoranjan Satpathy, Anand Yeolekar, S. Ramesh|
-|Differential symbolic execution |FSE |2008 |
-|DySy: dynamic symbolic execution for invariant inference |ICSE |2008 |
-|Calysto: scalable and precise extended static checking |ICSE |2008 |
-|Active property checking |International conference on Embedded software |2008 |
-|Pex-White Box Test Generation for .NET |International Conf. on Tests and Proofs |2008 |
-|Dynamic Test Input Generation for Web Applications |ISSTA |2008 |
-|Universal symbolic execution and its application to likely data structure invariant generation |ISSTA |2008 |
-|Dynamic test input generation for web applications |ISSTA |2008 |
-|Combining unit-level symbolic execution and system-level concrete execution for testing NASA software |ISSTA |2008 |
-|Automated Whitebox Fuzz Testing |Network and Distributed System Security Symposium |2008 |
-|KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs |OSDI |2008 |
-|Grammar-based whitebox fuzzing |PLDI |2008 |
-|Using Dynamic Symbolic Execution to Improve Deductive Verification |SPIN |2008 |
-|RWset: Attacking Path Explosion in Constraint-Based Test Generation |TACAS |2008 |
-|Demand-Driven Compositional Symbolic Execution |TACAS |2008 |
-|Combining symbolic execution with model checking to verify parallel numerical programs |TOSEM |2008 |
-|Vigilante: End-to-End Containment of Internet Worm Epidemics |Transactions on Computer Systems |2008 |
-|Panalyst: privacy-aware remote error analysis on commodity software |USENIX Security Symposium |2008 |
+|Differential symbolic execution |FSE |2008 |Suzette Person, Matthew B. Dwyer, Sebastian Elbaum, Corina S. Pǎsǎreanu|
+|DySy: dynamic symbolic execution for invariant inference |ICSE |2008 |Christoph Csallner, Nikolai Tillmann, Yannis Smaragdakis|
+|Calysto: scalable and precise extended static checking |ICSE |2008 |Domagoj Babic, Alan J. Hu|
+|Active property checking |International conference on Embedded software |2008 |Patrice Godefroid, Michael Y. Levin, David A. Molnar|
+|Pex-White Box Test Generation for .NET |International Conf. on Tests and Proofs |2008 |Nikolai Tillmann, Jonathan De Halleux|
+|Universal symbolic execution and its application to likely data structure invariant generation |ISSTA |2008 |Yamini Kannan, Koushik Sen|
+|Dynamic Test Input Generation for Web Applications |ISSTA |2008 |Gary Wassermann, Dachuan Yu, Ajay Chander, Dinakar Dhurjati, Hiroshi Inamura, Zhendong Su|
+|Combining unit-level symbolic execution and system-level concrete execution for testing NASA software |ISSTA |2008 |Corina S. Pǎsǎreanu, Peter C. Mehlitz, David H. Bushnell, Karen Gundy-Burlet, Michael Lowry, Suzette Person, Mark Pape|
+|Automated Whitebox Fuzz Testing |Network and Distributed System Security Symposium |2008 |Patrice Godefroid, Michael Y. Levin, David Molnar|
+|KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs |OSDI |2008 |Cristian Cadar, Daniel Dunbar, Dawson Engler|
+|Grammar-based whitebox fuzzing |PLDI |2008 |Patrice Godefroid, Adam Kiezun, Michael Y. Levin|
+|Using Dynamic Symbolic Execution to Improve Deductive Verification |SPIN |2008 |Dries Vanoverberghe, Nikolaj Bjørner, Jonathan Halleux, Wolfram Schulte, Nikolai Tillmann|
+|RWset: Attacking Path Explosion in Constraint-Based Test Generation |TACAS |2008 |Peter Boonstoppel, Cristian Cadar, Dawson Engler|
+|Demand-Driven Compositional Symbolic Execution |TACAS |2008 |Saswat Anand, Patrice Godefroid, Nikolai Tillmann|
+|Combining symbolic execution with model checking to verify parallel numerical programs |TOSEM |2008 |Stephen F. Siegel, Anastasia Mironova, George S. Avrunin, Lori A. Clarke|
+|Vigilante: End-to-End Containment of Internet Worm Epidemics |Transactions on Computer Systems |2008 |Manuel Costa, Jon Crowcroft, Miguel Castro, Antony Rowstron, Lidong Zhou, Lintao Zhang, Paul Barham|
+|Panalyst: privacy-aware remote error analysis on commodity software |USENIX Security Symposium |2008 |Rui Wang, XiaoFeng Wang, Zhuowei Li|
 |A Decision Procedure for Bitvectors and Arrays| CAV | 2007 | Ganesh and Dill|
-|Directed test generation using symbolic grammars |ASE |2007 |
-|Creating Vulnerability Signatures Using Weakest Preconditions |Computer Security Foundations Symposium |2007 |
-|Predictive testing: amplifying the effectiveness of software testing |ESEC/FSE |2007 |
-|Hybrid Concolic Testing |ICSE |2007 |
-|Variably interprocedural program analysis for runtime error detection |ISSTA |2007 |
-|Dynamic test input generation for database applications |ISSTA |2007 |
-|Compositional dynamic test generation |POPL |2007 |
+|Directed test generation using symbolic grammars |ASE |2007 |Rupak Majumdar, Ru-Gang Xu|
+|Creating Vulnerability Signatures Using Weakest Preconditions |Computer Security Foundations Symposium |2007 |David Brumley, Hao Wang, Somesh Jha, Dawn Song|
+|Predictive testing: amplifying the effectiveness of software testing |ESEC/FSE |2007 |Pallavi Joshi, Koushik Sen, Mark Shlimovich|
+|Hybrid Concolic Testing |ICSE |2007 |Rupak Majumdar, Koushik Sen|
+|Variably interprocedural program analysis for runtime error detection |ISSTA |2007 |Aaron Tomb, Guillaume Brat, Willem Visser|
+|Dynamic test input generation for database applications |ISSTA |2007 |Michael Emmi, Rupak Majumdar, Koushik Sen|
+|Compositional dynamic test generation |POPL |2007 |Patrice Godefroid|
 |QAGen: generating query-aware test databases |SIGMOD Conf. |2007 |Carsten Binnig, Donald Kossmann, Eric Lo, M. Tamer Özsu|
-|Bouncer: securing software by blocking bad input |SOSP |2007 |
-|Exploring Multiple Execution Paths for Malware Analysis |Symposium on Security and Privacy |2007 |
+|Bouncer: securing software by blocking bad input |SOSP |2007 |Manuel Costa, Miguel Castro, Lidong Zhou, Lintao Zhang, Marcus Peinado|
+|Exploring Multiple Execution Paths for Malware Analysis |Symposium on Security and Privacy |2007 |Andreas Moser, Christopher Kruegel, Engin Kirda|
 |JPF-SE: A Symbolic Execution Extension to Java PathFinder |TACAS |2007 |Saswat Anand, Corina Pasareanu, Willem Visser|
 |Type-Dependence Analysis and Program Transformation for Symbolic Execution |TACAS |2007 |Saswat Anand, Alex Orso, Mary Jean Harrold|
-|BitScope: Automatically Dissecting Malicious Binaries |Technical Report CMU-CS-07-133, School of Computer Science, Carnegie Mellon University |2007 |
-|Saturn: A scalable framework for error detection using Boolean satisfiability |TOPLAS |2007 |
+|BitScope: Automatically Dissecting Malicious Binaries |Technical Report CMU-CS-07-133, School of Computer Science, Carnegie Mellon University |2007 |David Brumley, Cody Hartwig, Min Gyung Kang, Zhenkai Liang, James Newsome, Pongsin Poosankam, Dawn Song, Heng Yin|
+|Saturn: A scalable framework for error detection using Boolean satisfiability |TOPLAS |2007 |Yichen Xie, Alex Aiken|
 |Towards Automatic Discovery of Deviations in Binary Implementations with Applications to Error Detection and Fingerprint Generation |USENIX Security Symposium |2007 |David Brumley, Juan Caballero, Zhenkai Liang, James Newsome, Dawn Song|
 |EXE: Automatically Generating Inputs of Death| CCS | 2006 | Cadar, Ganesh, Pawlowski, Dill, Engler |
 |Bogor/Kiasan: A k-bounded Symbolic Execution for Checking Strong Heap Properties of Open Systems |ASE |2006 |Xianghua Deng, Jooyong Lee, Robby|
@@ -211,5 +211,5 @@ The list is a bit out of date since I have not added many papers since 2013. But
 |Generalized Symbolic Execution for Model Checking and Testing |TACAS |2003 |Sarfraz Khurshid, Corina S. Păsăreanu, Willem Visser|
 |Extended Static Checking for Java |PLDI |2002 |Cormac Flanagan, K. Rustan M. Leino, Mark Lillibridge, Greg Nelson, James B. Saxe, Raymie Stata|
 |Bandera: a source-level interface for model checking Java programs |ICSE |2000 |James C. Corbett, Matthew B. Dwyer, John Hatcliff, Robby|
-|Symbolic Testing and the DISSECT Symbolic Evaluation System |IEEE Tran. Software Engg. |1977 |William E. Howden
+|Symbolic Testing and the DISSECT Symbolic Evaluation System |IEEE Tran. Software Engg. |1977 |William E. Howden|
 |Symbolic Execution and Program Testing |Commun. ACM |1976 |James C. King|
